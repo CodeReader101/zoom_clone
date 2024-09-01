@@ -15,7 +15,7 @@ const Navbar = () => {
           alt="Face Time logo"
         />
         <p className="text-[26px] font-extrabold text-white max-sm:hidden">
-          Face Time
+          YOOM
         </p>
       </Link>
       <div className="flex-between gap-5">
